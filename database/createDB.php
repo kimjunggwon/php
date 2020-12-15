@@ -22,6 +22,7 @@
     /*
     query() : DB 접속이 정상적으로 연결 시, 쿼리문을 사용할 수 있는 메소드
      - query() 구조 : query(쿼리문)
+    CREATE 데이터 베이스 구조 : CREATE DATABASE 데이터베이스명
     쿼리문 : CREATE DATABASE study -> study 데이터 베이스를 생성
     */
 ?>
