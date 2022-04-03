@@ -9,6 +9,6 @@
         var_dump($matches);
         echo "</pre>";
     }else{
-        echo "값에 영문 대문자 외의 문자가 있는지 확인";
+        echo "값에 영문 소문자 외의 문자가 있는지 확인";
     }
 ?>
